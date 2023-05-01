@@ -20,7 +20,33 @@ const INITIAL_EXPENSES = [
     id: 31,
     title: 'Food',
     amount: 159.49,
-    date: new Date(2021, 2, 28),
+    date: new Date(2022, 3, 28),
+  },
+  {
+    id: 42,
+
+    title: 'Internet',
+    amount: 79.99,
+    date: new Date(2022, 4, 28),
+  },
+  {
+    id: 31,
+    title: 'Food',
+    amount: 159.49,
+    date: new Date(2022, 4, 28),
+  },
+  {
+    id: 42,
+
+    title: 'Food',
+    amount: 79.99,
+    date: new Date(2022, 4, 28),
+  },
+  {
+    id: 31,
+    title: 'Food',
+    amount: 159.49,
+    date: new Date(2022, 6, 28),
   },
 ];
 
